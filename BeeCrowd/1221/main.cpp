@@ -40,3 +40,5 @@ int main(){
     }
     return 0;
 }
+//beecrowd | 1221
+//https://judge.beecrowd.com/pt/problems/view/1221

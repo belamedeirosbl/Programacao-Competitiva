@@ -18,3 +18,6 @@ int main(){
     cout << max;
     return 0;
 }
+
+//A. Kefa and First Steps
+//https://codeforces.com/contest/580/problem/A

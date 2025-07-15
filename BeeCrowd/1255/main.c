@@ -35,3 +35,6 @@ int main()
     }
     return 0;
 }
+
+//beecrowd | 1255
+//https://judge.beecrowd.com/pt/problems/view/1255

@@ -27,3 +27,6 @@ int main() {
     }
     return 0;
 }
+
+//A. Watermelon
+//https://codeforces.com/contest/4/problem/A
