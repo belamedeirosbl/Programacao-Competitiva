@@ -30,3 +30,5 @@ int main(){
     }
     return 0;
 }
+//PALAVRMG - Palavras Ordenadas
+//https://br.spoj.com/problems/PALAVRMG/

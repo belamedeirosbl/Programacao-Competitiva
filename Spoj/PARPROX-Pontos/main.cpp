@@ -41,3 +41,6 @@ int main(){
     printf("%.3lf\n", min);
     return 0;
 } 
+
+//PARPROX - Pontos
+//https://br.spoj.com/problems/PARPROX/

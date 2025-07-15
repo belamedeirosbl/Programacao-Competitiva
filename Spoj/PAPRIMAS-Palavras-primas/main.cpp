@@ -46,3 +46,6 @@ int main(){
     }
     return 0;
 }
+
+//PAPRIMAS - Palavras primas
+//https://br.spoj.com/problems/PAPRIMAS/

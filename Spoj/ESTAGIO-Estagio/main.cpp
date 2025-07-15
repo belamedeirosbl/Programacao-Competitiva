@@ -39,3 +39,6 @@ int main(){
     }
     return 0;
 }
+
+//STAGIO - Estágio
+//https://br.spoj.com/problems/ESTAGIO/
